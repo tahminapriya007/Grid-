@@ -1,0 +1,129 @@
+.box{
+  text-align: center;
+  font-size: 50px;
+  height: 100px;
+  background-color: aquamarine;
+  border: 0px;
+  margin: 0px;
+  padding: 0;
+}
+
+.wrapper{
+  border: 5px solid;
+  overflow: hidden;
+}
+
+.item2{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: aqua;
+  float: left;
+  width: 70%;
+}
+.item3{
+  font-size: 50px;
+  height: 100px;
+  background-color: bisque;
+  float: right;
+  width: 30%;
+}
+
+.item4{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgb(200, 194, 38);
+  float: left;
+  width: 33%
+}
+.item5{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(22, 65, 173, 0.242);
+  float: left;
+  width: 33%;
+}
+.item6{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgb(56, 138, 138);
+  float: left;
+  width: 34%;
+}
+
+.item7{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgb(166, 103, 155);
+  float: left;
+  width: 25%;
+}
+.item8{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgb(163, 67, 67);
+  float: left;
+  width: 25%;
+}
+.item9{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(207, 179, 77, 0.368);
+  float: left;
+  width: 25%;
+}
+.item10{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgb(149, 127, 133);
+  float: left;
+  width: 25%;
+}
+
+.item11{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(69, 73, 139, 0.368);
+  float: left;
+  width: 20%;
+}
+.item12{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(72, 36, 94, 0.368);
+  float: left;
+  width: 20%;
+}
+.item13{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(167, 159, 203, 0.368);
+  float: left;
+  width: 20%;
+}
+.item14{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(60, 132, 180, 0.307);
+  float: left;
+  width: 20%;
+}
+.item15{
+
+  font-size: 50px;
+  height: 100px;
+  background-color: rgba(165, 129, 204, 0.368);
+  float: left;
+  width: 20%;
+}
